@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * @brief Signal handler for SIGINT - prints a message and exits
+ * @brief Signal handler for SIGALRM - prints a message and exits
  */
 void handle_signal() {
     printf("Received a signal\n");
