@@ -44,7 +44,7 @@ int main() {
     printf("Waiting for signal\n");
 
 
-    //do nothing while waiting for alarm
+    //do nothing 
     while(1)
     {
 
